@@ -1,0 +1,980 @@
+{
+  "ADDING": [
+    {
+      "type": 0,
+      "value": "Adding"
+    }
+  ],
+  "ADDING_CATEGORY": [
+    {
+      "type": 0,
+      "value": "add category"
+    }
+  ],
+  "ADDRESS_TAB": [
+    {
+      "type": 0,
+      "value": "address"
+    }
+  ],
+  "AFFILIATE": [
+    {
+      "type": 0,
+      "value": "affiliate"
+    }
+  ],
+  "ALL_GAME": [
+    {
+      "type": 0,
+      "value": "all game"
+    }
+  ],
+  "AMOUNT_TAB": [
+    {
+      "type": 0,
+      "value": "amount"
+    }
+  ],
+  "AUTHORIZE": [
+    {
+      "type": 0,
+      "value": "Authorization code"
+    }
+  ],
+  "AUTO_PLAY_BTN": [
+    {
+      "type": 0,
+      "value": "auto play"
+    }
+  ],
+  "AUTO_SPIN_BTN": [
+    {
+      "type": 0,
+      "value": "auto spin"
+    }
+  ],
+  "AVAILABLE": [
+    {
+      "type": 0,
+      "value": "available"
+    }
+  ],
+  "BALANCE": [
+    {
+      "type": 0,
+      "value": "balance"
+    }
+  ],
+  "BALANCE_AVAILABEL": [
+    {
+      "type": 0,
+      "value": "Available balance"
+    }
+  ],
+  "BEGINER_GUIDE": [
+    {
+      "type": 0,
+      "value": "beginners guide"
+    }
+  ],
+  "BETTING_HISTORY": [
+    {
+      "type": 0,
+      "value": "betting history"
+    }
+  ],
+  "BET_AMOUNT": [
+    {
+      "type": 0,
+      "value": "Bet amount"
+    }
+  ],
+  "BET_AMOUNT_PERLINE": [
+    {
+      "type": 0,
+      "value": "bet amount per line"
+    }
+  ],
+  "BROWSER_TAB": [
+    {
+      "type": 0,
+      "value": "browser"
+    }
+  ],
+  "BUTTON_AUTO_LABEL": [
+    {
+      "type": 0,
+      "value": "auto roll"
+    }
+  ],
+  "BUTTON_ROLL_LABEL": [
+    {
+      "type": 0,
+      "value": "roll"
+    }
+  ],
+  "BUTTON_STOP_LABEL": [
+    {
+      "type": 0,
+      "value": "stop"
+    }
+  ],
+  "CANCEL": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "CAUTION": [
+    {
+      "type": 0,
+      "value": "caution"
+    }
+  ],
+  "CHANGE_AVARTAR": [
+    {
+      "type": 0,
+      "value": "Change Avatar"
+    }
+  ],
+  "CHANGE_AVARTAR_ERROR": [
+    {
+      "type": 0,
+      "value": "Error, Please try again"
+    }
+  ],
+  "CHANGE_AVARTAR_SUCCESS": [
+    {
+      "type": 0,
+      "value": "Your avatar has been updated"
+    }
+  ],
+  "CHANGE_AVARTAR_WARNING_FILE": [
+    {
+      "type": 0,
+      "value": "You can only upload JPG/PNG file!"
+    }
+  ],
+  "CHANGE_AVARTAR_WARNING_SIZE": [
+    {
+      "type": 0,
+      "value": "Image must smaller than 4MB!"
+    }
+  ],
+  "CHANGE_PASSWORD": [
+    {
+      "type": 0,
+      "value": "Change password"
+    }
+  ],
+  "CHANGE_USERNAME": [
+    {
+      "type": 0,
+      "value": "Change Username"
+    }
+  ],
+  "CHATTING": [
+    {
+      "type": 0,
+      "value": "chat"
+    }
+  ],
+  "CITY_TAB": [
+    {
+      "type": 0,
+      "value": "city"
+    }
+  ],
+  "COMMISSION_CHART": [
+    {
+      "type": 0,
+      "value": "commission chart"
+    }
+  ],
+  "COMMISSION_HISTORY": [
+    {
+      "type": 0,
+      "value": "Commission history"
+    }
+  ],
+  "CONFIRM": [
+    {
+      "type": 0,
+      "value": "Confirm"
+    }
+  ],
+  "CONFIRM_CODE": [
+    {
+      "type": 0,
+      "value": "Confirm with code"
+    }
+  ],
+  "CONFIRM_NEW_PASS": [
+    {
+      "type": 0,
+      "value": "confirm new password"
+    }
+  ],
+  "CONFIRM_PASS": [
+    {
+      "type": 0,
+      "value": "confirm password"
+    }
+  ],
+  "CONNECTING_AUTHEN": [
+    {
+      "type": 0,
+      "value": "Connecting your authenticator app"
+    }
+  ],
+  "COPIED": [
+    {
+      "type": 0,
+      "value": "Copied"
+    }
+  ],
+  "COPY_TO_CLIPBOARD": [
+    {
+      "type": 0,
+      "value": "Copying to clipboard was successful!"
+    }
+  ],
+  "COULD_NOT_COPY": [
+    {
+      "type": 0,
+      "value": "Could not copy text!"
+    }
+  ],
+  "COUNTRY_TAB": [
+    {
+      "type": 0,
+      "value": "country"
+    }
+  ],
+  "CRASHED_AT": [
+    {
+      "type": 0,
+      "value": "crashed at:"
+    }
+  ],
+  "CURRENCY_TAB": [
+    {
+      "type": 0,
+      "value": "currency"
+    }
+  ],
+  "CURRENT_PASS": [
+    {
+      "type": 0,
+      "value": "current password"
+    }
+  ],
+  "DATE_TAB": [
+    {
+      "type": 0,
+      "value": "date"
+    }
+  ],
+  "DEPOSITE": [
+    {
+      "type": 0,
+      "value": "deposit"
+    }
+  ],
+  "DEPOSIT_HISTORY": [
+    {
+      "type": 0,
+      "value": "deposit history"
+    }
+  ],
+  "DICE_GAME": [
+    {
+      "type": 0,
+      "value": "dice"
+    }
+  ],
+  "DISABLED": [
+    {
+      "type": 0,
+      "value": "Disable"
+    }
+  ],
+  "EMAIL": [
+    {
+      "type": 0,
+      "value": "email"
+    }
+  ],
+  "EMAIL_ADDRESS": [
+    {
+      "type": 0,
+      "value": "E-mail Address"
+    }
+  ],
+  "EMAIL_CHECKING": [
+    {
+      "type": 0,
+      "value": "Please check email to confirm !"
+    }
+  ],
+  "ENABLED": [
+    {
+      "type": 0,
+      "value": "Enable"
+    }
+  ],
+  "ERROR_NOTIFY": [
+    {
+      "type": 0,
+      "value": "error"
+    }
+  ],
+  "ERR_INPUT_ADDRESS": [
+    {
+      "type": 0,
+      "value": "Please input your address!"
+    }
+  ],
+  "ERR_INPUT_NUMBER": [
+    {
+      "type": 0,
+      "value": "Please input your number!"
+    }
+  ],
+  "FAVORITE": [
+    {
+      "type": 0,
+      "value": "favorite"
+    }
+  ],
+  "FEE_TAB": [
+    {
+      "type": 0,
+      "value": "fee"
+    }
+  ],
+  "FORGOT_PASSWORD": [
+    {
+      "type": 0,
+      "value": "Forgot password"
+    }
+  ],
+  "GAME_RULE": [
+    {
+      "type": 0,
+      "value": "rules"
+    }
+  ],
+  "GAME_TAB": [
+    {
+      "type": 0,
+      "value": "game"
+    }
+  ],
+  "GOOGLE_CODE": [
+    {
+      "type": 0,
+      "value": "google Code"
+    }
+  ],
+  "HASH_TAB": [
+    {
+      "type": 0,
+      "value": "hash"
+    }
+  ],
+  "HAVE_AN_ACCOUNT": [
+    {
+      "type": 0,
+      "value": "Have an account ?"
+    }
+  ],
+  "HIGHEST_PROFIT": [
+    {
+      "type": 0,
+      "value": "highest profit"
+    }
+  ],
+  "HOME_PAGE": [
+    {
+      "type": 0,
+      "value": "home"
+    }
+  ],
+  "INCREASE_BY": [
+    {
+      "type": 0,
+      "value": "increase by :"
+    }
+  ],
+  "INVALID_2FA": [
+    {
+      "type": 0,
+      "value": "Invalid 2FA Code"
+    }
+  ],
+  "INVITE_CODE": [
+    {
+      "type": 0,
+      "value": "Invited code"
+    }
+  ],
+  "INVITE_FRIEND": [
+    {
+      "type": 0,
+      "value": "invite friends, earn crypto"
+    }
+  ],
+  "INVITE_FRINE_DECRIPTION": [
+    {
+      "type": 0,
+      "value": "Use your unique link to invite your friends over message or email. Your default invitation code can also be shared in real life or as a screenshot."
+    }
+  ],
+  "IP_TAB": [
+    {
+      "type": 0,
+      "value": "ip"
+    }
+  ],
+  "LASTEST_GAMES": [
+    {
+      "type": 0,
+      "value": "lastest games"
+    }
+  ],
+  "LASTEST_ROLL": [
+    {
+      "type": 0,
+      "value": "lastest roll"
+    }
+  ],
+  "LASTEST_SPINS": [
+    {
+      "type": 0,
+      "value": "lastest spins"
+    }
+  ],
+  "LEAVE_BTN": [
+    {
+      "type": 0,
+      "value": "leave"
+    }
+  ],
+  "LEVEL_TAB": [
+    {
+      "type": 0,
+      "value": "level"
+    }
+  ],
+  "LOGIN_HISTORY": [
+    {
+      "type": 0,
+      "value": "Login history"
+    }
+  ],
+  "LOGIN_IN_NOW": [
+    {
+      "type": 0,
+      "value": "Login now!"
+    }
+  ],
+  "LOGIN_TO_CHAT": [
+    {
+      "type": 0,
+      "value": "You have to be login in to use chat"
+    }
+  ],
+  "LOG_IN": [
+    {
+      "type": 0,
+      "value": "login"
+    }
+  ],
+  "LOG_OUT": [
+    {
+      "type": 0,
+      "value": "log out"
+    }
+  ],
+  "LOSS_BEHAVIOR": [
+    {
+      "type": 0,
+      "value": "loss behavior"
+    }
+  ],
+  "MAX_BET": [
+    {
+      "type": 0,
+      "value": "max"
+    }
+  ],
+  "MEMBER_AFFILATE": [
+    {
+      "type": 0,
+      "value": "member"
+    }
+  ],
+  "MEMBER_COMMISISON": [
+    {
+      "type": 0,
+      "value": "member's Commission"
+    }
+  ],
+  "MIN_WITHDRAW": [
+    {
+      "type": 0,
+      "value": "Minimum withdraw"
+    }
+  ],
+  "MOON_GAME": [
+    {
+      "type": 0,
+      "value": "moon"
+    }
+  ],
+  "MULTIPLIERS_TAB": [
+    {
+      "type": 0,
+      "value": "multiplier"
+    }
+  ],
+  "NETWORK_TAB": [
+    {
+      "type": 0,
+      "value": "network"
+    }
+  ],
+  "NEW_PASS": [
+    {
+      "type": 0,
+      "value": "new password"
+    }
+  ],
+  "NEXT": [
+    {
+      "type": 0,
+      "value": "next"
+    }
+  ],
+  "NOTIFICATIONS ": [
+    {
+      "type": 0,
+      "value": "notifications"
+    }
+  ],
+  "NOTIFY_NEW_PASSWORD": [
+    {
+      "type": 0,
+      "value": "We have a emailed your password reset link!"
+    }
+  ],
+  "NOTIFY_SETTING": [
+    {
+      "type": 0,
+      "value": "Notifications settings"
+    }
+  ],
+  "NOT_A_MEMBER": [
+    {
+      "type": 0,
+      "value": "Not a member ?"
+    }
+  ],
+  "NUMBER_OF_GAME": [
+    {
+      "type": 0,
+      "value": "number of game"
+    }
+  ],
+  "NUMBER_OF_ROLL": [
+    {
+      "type": 0,
+      "value": "number of roll"
+    }
+  ],
+  "OOPS": [
+    {
+      "type": 0,
+      "value": "oops"
+    }
+  ],
+  "PASSWORD": [
+    {
+      "type": 0,
+      "value": "password"
+    }
+  ],
+  "PASSWORD_MATCH": [
+    {
+      "type": 0,
+      "value": "Match"
+    }
+  ],
+  "PASSWORD_MEDIUM": [
+    {
+      "type": 0,
+      "value": "Password is medium"
+    }
+  ],
+  "PASSWORD_NOT_MATCH": [
+    {
+      "type": 0,
+      "value": "Password does not match"
+    }
+  ],
+  "PASSWORD_STRENG": [
+    {
+      "type": 0,
+      "value": "Password Strength :"
+    }
+  ],
+  "PASSWORD_STRONG": [
+    {
+      "type": 0,
+      "value": "Password is strong"
+    }
+  ],
+  "PASSWORD_WEAK": [
+    {
+      "type": 0,
+      "value": "Password too weak. You must use a stroger password to continue"
+    }
+  ],
+  "PLAY_BTN": [
+    {
+      "type": 0,
+      "value": "play"
+    }
+  ],
+  "PLEASE_INPUT": [
+    {
+      "type": 0,
+      "value": "Please input"
+    }
+  ],
+  "PREV": [
+    {
+      "type": 0,
+      "value": "prev"
+    }
+  ],
+  "PROFIT_TAB": [
+    {
+      "type": 0,
+      "value": "profit"
+    }
+  ],
+  "RECEIVE_AMOUNT": [
+    {
+      "type": 0,
+      "value": "Receive amount:"
+    }
+  ],
+  "RECIPIENT": [
+    {
+      "type": 0,
+      "value": "Recipient's"
+    }
+  ],
+  "REGISTER_SUCCESS": [
+    {
+      "type": 0,
+      "value": "Registration success"
+    }
+  ],
+  "REMEMBER_ME": [
+    {
+      "type": 0,
+      "value": "Remember me"
+    }
+  ],
+  "REMEMBER_PASSWORD": [
+    {
+      "type": 0,
+      "value": "Remember your password?"
+    }
+  ],
+  "REQUIRED_ERROR": [
+    {
+      "type": 0,
+      "value": "require"
+    }
+  ],
+  "RESET_TO_BASE": [
+    {
+      "type": 0,
+      "value": "Reset to base"
+    }
+  ],
+  "RESULT_TAB": [
+    {
+      "type": 0,
+      "value": "result"
+    }
+  ],
+  "ROLL_OVER": [
+    {
+      "type": 0,
+      "value": "Roll over"
+    }
+  ],
+  "SAVING_SECRET_KEY": [
+    {
+      "type": 0,
+      "value": "Saving your secret key"
+    }
+  ],
+  "SELECT_AN_OPTION": [
+    {
+      "type": 0,
+      "value": "Select an option"
+    }
+  ],
+  "SETTING": [
+    {
+      "type": 0,
+      "value": "setting"
+    }
+  ],
+  "SET_NOTIFY": [
+    {
+      "type": 0,
+      "value": "set notify"
+    }
+  ],
+  "SIGN_UP": [
+    {
+      "type": 0,
+      "value": "sign up"
+    }
+  ],
+  "SIGN_UP_NOW": [
+    {
+      "type": 0,
+      "value": "Sign up now!"
+    }
+  ],
+  "SLOTS_GAME": [
+    {
+      "type": 0,
+      "value": "slots"
+    }
+  ],
+  "SLOT_MODAL_RULE": [
+    {
+      "type": 0,
+      "value": "Slot Rules"
+    }
+  ],
+  "SPIN_BTN": [
+    {
+      "type": 0,
+      "value": "spin"
+    }
+  ],
+  "START_NOW": [
+    {
+      "type": 0,
+      "value": "start now!"
+    }
+  ],
+  "STATUS_TAB": [
+    {
+      "type": 0,
+      "value": "status"
+    }
+  ],
+  "STOP_BTN": [
+    {
+      "type": 0,
+      "value": "stop"
+    }
+  ],
+  "SUBMIT": [
+    {
+      "type": 0,
+      "value": "Submit"
+    }
+  ],
+  "SUCCESS": [
+    {
+      "type": 0,
+      "value": "Success"
+    }
+  ],
+  "SWITCH_AUTO": [
+    {
+      "type": 0,
+      "value": "auto"
+    }
+  ],
+  "SWITCH_MANUAL": [
+    {
+      "type": 0,
+      "value": "manual"
+    }
+  ],
+  "TELL_A_FRIEND": [
+    {
+      "type": 0,
+      "value": "invite friends"
+    }
+  ],
+  "TIME_NEXT_GAME": [
+    {
+      "type": 0,
+      "value": "time to next game:"
+    }
+  ],
+  "TIPS": [
+    {
+      "type": 0,
+      "value": "tips"
+    }
+  ],
+  "TOAL_AFFILATE_1": [
+    {
+      "type": 0,
+      "value": "total affiliate 1"
+    }
+  ],
+  "TOTAL_AFFILIATE": [
+    {
+      "type": 0,
+      "value": "total afilate"
+    }
+  ],
+  "TOTAL_BALANCE": [
+    {
+      "type": 0,
+      "value": "Total balance"
+    }
+  ],
+  "TRANSACTION": [
+    {
+      "type": 0,
+      "value": "transaction"
+    }
+  ],
+  "TRANSACTION_FEE": [
+    {
+      "type": 0,
+      "value": "Transaction fee:"
+    }
+  ],
+  "TRANSACTION_HASH_TAB": [
+    {
+      "type": 0,
+      "value": "transactionHash"
+    }
+  ],
+  "TWO_2FA": [
+    {
+      "type": 0,
+      "value": "2-Factor Authentication"
+    }
+  ],
+  "TWO_2FA_DES": [
+    {
+      "type": 0,
+      "value": "Use your newly connected authenticator app to finish the process of enabling 2-Factor Authentication"
+    }
+  ],
+  "TWO_2FA_STATUS": [
+    {
+      "type": 0,
+      "value": "2-Factor Authentication is"
+    }
+  ],
+  "TYPING_MESS": [
+    {
+      "type": 0,
+      "value": "Type your mess here ..."
+    }
+  ],
+  "USER_NAME": [
+    {
+      "type": 0,
+      "value": "username"
+    }
+  ],
+  "USER_TAB": [
+    {
+      "type": 0,
+      "value": "user"
+    }
+  ],
+  "WALLET": [
+    {
+      "type": 0,
+      "value": "wallet"
+    }
+  ],
+  "WALLET_ADDRESS": [
+    {
+      "type": 0,
+      "value": "Wallet address"
+    }
+  ],
+  "WARNING_CHANGE_USERNAME": [
+    {
+      "type": 0,
+      "value": "Please input your username!"
+    }
+  ],
+  "WARNING_CODE": [
+    {
+      "type": 0,
+      "value": "Please input your code!"
+    }
+  ],
+  "WARNING_EMAIL": [
+    {
+      "type": 0,
+      "value": "Please input your email!"
+    }
+  ],
+  "WARNING_PASSWORD": [
+    {
+      "type": 0,
+      "value": "Please input your password!"
+    }
+  ],
+  "WATTING_BTN": [
+    {
+      "type": 0,
+      "value": "watting"
+    }
+  ],
+  "WIN_BEHAVIOR": [
+    {
+      "type": 0,
+      "value": "win behavior"
+    }
+  ],
+  "WIN_CHANCE": [
+    {
+      "type": 0,
+      "value": "Win chance"
+    }
+  ],
+  "WITHDRAW_HISTORY": [
+    {
+      "type": 0,
+      "value": "Withdraw history"
+    }
+  ],
+  "WITH_DRAW": [
+    {
+      "type": 0,
+      "value": "withdraw"
+    }
+  ],
+  "YOUR_BALANCE": [
+    {
+      "type": 0,
+      "value": "Your balance"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+/* Shine */
+
+.slash-animated {
+  figure {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    &::before {
+      position: absolute;
+      top: 0;
+      left: -75%;
+      z-index: 2;
+      display: block;
+      content: "";
+      width: 50%;
+      height: 100%;
+      background: -webkit-linear-gradient(
+        left,
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 0.3) 100%
+      );
+      background: linear-gradient(
+        to right,
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 0.3) 100%
+      );
+      -webkit-transform: skewX(-25deg);
+      transform: skewX(-25deg);
+    }
+    &:hover::before {
+      -webkit-animation: shine 0.75s;
+      animation: shine 0.75s;
+    }
+  }
+}
+@-webkit-keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
+@keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
+
+.zoom-animated {
+  img {
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+  }
+  figure {
+    &:hover {
+      img {
+        transform: scale(1.01);
+      }
+    }
+  }
+}
+
+.animate-bottom {
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 0.5s;
+  animation-name: animatebottom;
+  animation-duration: 0.5s;
+}
+
+@-webkit-keyframes animatebottom {
+  from {
+    bottom: -75px;
+    opacity: 0;
+  }
+  to {
+    bottom: 0px;
+    opacity: 1;
+  }
+}
+
+@keyframes animatebottom {
+  from {
+    bottom: -75px;
+    opacity: 0;
+  }
+  to {
+    bottom: 0;
+    opacity: 1;
+  }
+}
+
+.animate-toLeft {
+  -webkit-animation-name: animatetoleft;
+  -webkit-animation-duration: 0.5s;
+  animation-name: animatetoleft;
+  animation-duration: 0.5s;
+}
+
+@-webkit-keyframes animatetoleft {
+  from {
+    right: -75px;
+    opacity: 0;
+  }
+  to {
+    right: 0px;
+    opacity: 1;
+  }
+}
+
+@keyframes animatetoleft {
+  from {
+    right: -75px;
+    opacity: 0;
+  }
+  to {
+    right: 0;
+    opacity: 1;
+  }
+}
+.animate-toRight {
+  -webkit-animation-name: animatetoright;
+  -webkit-animation-duration: 0.5s;
+  animation-name: animatetoright;
+  animation-duration: 0.5s;
+}
+
+@-webkit-keyframes animatetoright {
+  from {
+    left: -75px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    opacity: 1;
+  }
+}
+
+@keyframes animatetoright {
+  from {
+    left: -75px;
+    opacity: 0;
+  }
+  to {
+    left: 0;
+    opacity: 1;
+  }
+}
